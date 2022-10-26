@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!DOCTYPE listapedidos SYSTEM "reglaslistaventas.dtd">
+
+<listapedidos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="listapedidos.xsd">
+    <pedido>
+        <numeroserie>15612</numeroserie>
+        <cantidad>152364</cantidad>
+    </pedido>
+
+    <pedido>
+        <numeroserie>61235</numeroserie>
+        <cantidad>152364</cantidad>
+        <peso>15.5</peso>
+    </pedido>
+
+
+    <pedido>
+        <numeroserie>6565</numeroserie>
+        <cantidad>1000</cantidad>
+        <peso>12.5</peso>
+    </pedido>
+
+
+</listapedidos>
